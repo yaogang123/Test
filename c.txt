@@ -9,3 +9,4 @@ demo2
 demo3
 conflict 2
 confict 3
+conflict 4

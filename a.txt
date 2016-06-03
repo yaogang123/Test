@@ -6,3 +6,4 @@ I hope to hava a good weekend.
 commit tryidea1
 commit master1
 commit tryidea2
+tryidea branch modify...
